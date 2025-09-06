@@ -1,4 +1,4 @@
-# 🪷 Mithra Nandhana's Pookalam 2025
+ # 🪷 Mithra Nandhana's Pookalam 2025
 
 ## 👨‍💻 About Me
 - **Name:** Mithra Nandhana B A 
@@ -7,7 +7,7 @@
 - **Programming Language Used:** Python 
 
 ## 🎨 My Pookalam
-Mithra's Pookalam.py
+
 
 ### Description
 Some designs bloom best when rooted in tradition, like my pookalam! 
@@ -32,6 +32,8 @@ What I learned from this whole process is what makes this pookalam truly special
 - Minimal requirements to run (Python, Turtle, math)
 
 ## 🚀 How to Run
+Mithra's Pookalam.py
+
 
 ### Prerequisites
 This code is completely made on Python with the help of Turtle and math. Thereby 
