@@ -23,8 +23,7 @@ The inspiration for this whole work comes from the traditional pookalams I grew 
 What I learned from this whole process is what makes this pookalam truly special for me. As someone who only knew bits and pieces of Python Turtle, I thought it would be a difficult task. But through the process, I discovered more than I expected, how to create intricate loops, how to manage designs step by step, and most importantly, how code can turn into culture. 🌺
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
-*Add more images if you have multiple views or animations*
+![Mithra's Pookalam](https://github.com/nandhanamithra/Mithra-Nandhana-Pookalam/blob/main/Mithra's%20pookalam.jpg)
 
 ### Features
 - Bright and Colourfilled Palette
@@ -33,7 +32,6 @@ What I learned from this whole process is what makes this pookalam truly special
 
 ## 🚀 How to Run
 Mithra's Pookalam.py
-
 
 ### Prerequisites
 This code is completely made on Python with the help of Turtle and math. Thereby 
