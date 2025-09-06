@@ -7,7 +7,7 @@
 - **Programming Language Used:** Python 
 
 ## 🎨 My Pookalam
-
+Mithra's Pookalam.py
 
 ### Description
 Some designs bloom best when rooted in tradition, like my pookalam! 
@@ -30,7 +30,7 @@ What I learned from this whole process is what makes this pookalam truly special
 - Traditional motifs
 - Minimal requirements to run (Python, Turtle, math)
 
-## 🚀 How to Run
+## 🚀 How to Run 
 Mithra's Pookalam.py
 
 ### Prerequisites
