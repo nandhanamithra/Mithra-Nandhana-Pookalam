@@ -16,7 +16,7 @@ It is bright, colorful, and full of little details, a digital bloom created with
 
 The pookalam is placed on a green background, resembling the greenery of our land. Inside that greenery, the flowers are arranged within a brown circle, reminding us of the fading tradition of the cow dung base. On top of that, flowers bloom neatly in the form of another flower, making layers upon layers of beauty.
 
-At the center, you can see 10 concentric circles — symbolising the 10 days of Onam (Atham to Thiruvonam) and the grand welcome of Maveli. The circles follow the traditional order of flowers: thumba at the center, just like the first day of Onam (as a white circle), then tulsi for the second day (the purple circle), and from the third day, Chothi onwards, red flowers are added,  just exactly as shown in my pookalam.
+At the center, you can see 10 concentric circles-symbolising the 10 days of Onam (Atham to Thiruvonam) and the grand welcome of Maveli. The circles follow the traditional order of flowers: thumba at the center, just like the first day of Onam (as a white circle), then tulsi for the second day (the purple circle), and from the third day, Chothi onwards, red flowers are added,  just exactly as shown in my pookalam.
 
 The inspiration for this whole work comes from the traditional pookalams I grew up seeing at home. I’m also glad I could include my knowledge of the significance of specific flowers for specific Onam days, something I first learned from social media and then brought alive in this design.
 
