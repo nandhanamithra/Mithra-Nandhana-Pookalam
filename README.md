@@ -31,6 +31,7 @@ What I learned from this whole process is what makes this pookalam truly special
 - Minimal requirements to run (Python, Turtle, math)
 
 ## 🚀 How to Run 
+you need python, Turtle 🐢, math, inorder to run the code 
 Mithra's Pookalam.py
 
 ### Prerequisites
